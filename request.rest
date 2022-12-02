@@ -28,5 +28,3 @@ Content-Type: application/json
     "quantity": 533,
     "price": 55032
 }
-
-
